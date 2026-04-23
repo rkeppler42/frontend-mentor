@@ -6,9 +6,9 @@ A collection of my solutions to [Frontend Mentor](https://www.frontendmentor.io/
 
 ## 🗂️ Projects
 
-| #    | Project                                      | Difficulty | Live Demo                                                    | Status |
-| ---- | -------------------------------------------- | ---------- | ------------------------------------------------------------ | ------ |
-| 01   | [QR Code Component](./01-qr-code-component/) | Newbie     | [Live] | 🚧 In progress |
+| #   | Project                                      | Difficulty | Live Demo                                                                  | Status       |
+| --- | -------------------------------------------- | ---------- | -------------------------------------------------------------------------- | ------------ |
+| 01  | [QR Code Component](./01-qr-code-component/) | Newbie     | [Live](https://rkeppler42.github.io/frontend-mentor/01-qr-code-component/) | ✅ Concluded |
 
 ## 🛠️ Tech Stack
 
@@ -37,9 +37,9 @@ Uma coleção das minhas soluções para os desafios do [Frontend Mentor](https:
 
 ## 🗂️ Projetos
 
-| #    | Projeto                                      | Dificuldade | Demo ao vivo                                                 | Status      |
-| ---- | -------------------------------------------- | ----------- | ------------------------------------------------------------ | ----------- |
-| 01   | [QR Code Component](./01-qr-code-component/) | Newbie      | [Live](https://rkeppler42.github.io/frontend-mentor/01-qr-code-component/) | ✅ Concluído |
+| #   | Projeto                                      | Dificuldade | Demo ao vivo                                                               | Status       |
+| --- | -------------------------------------------- | ----------- | -------------------------------------------------------------------------- | ------------ |
+| 01  | [QR Code Component](./01-qr-code-component/) | Newbie      | [Live](https://rkeppler42.github.io/frontend-mentor/01-qr-code-component/) | ✅ Concluído |
 
 ## 🛠️ Tecnologias
 
