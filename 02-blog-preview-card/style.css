@@ -1,0 +1,82 @@
+@font-face {
+  font-family: Figtree;
+  src: url(fonts/Figtree-VariableFont_wght.ttf) format("truetype");
+  font-weight: 100 900;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f4d04e;
+  padding: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: Figtree, sans-serif;
+  color: #111;
+  line-height: 150%;
+}
+
+.card {
+  width: 100%;
+  max-width: 24rem;
+  background-color: #fff;
+  padding: 1.5rem;
+  border-radius: 1.25rem;
+  box-shadow: 0.5rem 0.5rem #000;
+  border: #111 solid 1px;
+}
+
+.card__img {
+  width: 100%;
+  margin-bottom: 1.5rem;
+  border-radius: 0.625rem;
+}
+
+.card__category {
+  font-size: clamp(0.75rem, 0.706rem + 0.1878vw, 0.875rem);
+  font-weight: 900;
+  padding: 0.25rem 0.75rem;
+  background-color: #f4d04e;
+  border-radius: 0.25rem;
+  margin-bottom: 0.75rem;
+  width: fit-content;
+}
+
+.card__date {
+  font-size: clamp(0.75rem, 0.706rem + 0.1878vw, 0.875rem);
+  margin-bottom: 0.75rem;
+}
+
+.card__title {
+  font-size: clamp(1.25rem, 1.162rem + 0.3756vw, 1.5rem);
+  font-weight: 900;
+  line-height: 150%;
+}
+
+.card__description {
+  color: #6b6b6b;
+  font-size: clamp(0.875rem, 0.831rem + 0.1878vw, 1rem);
+  margin-bottom: 1.5rem;
+}
+
+.card__signature {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.card__profile-picture {
+  width: 2rem;
+  height: 2rem;
+}
+
+.card__author {
+  font-size: 0.875rem;
+  font-weight: 900;
+}
